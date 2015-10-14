@@ -1,2 +1,2 @@
-# arduino
-Skolelabbens Arduino-kurs 
+# Arduino
+Her kommer Skolelabbens Arduino-kurs! 
